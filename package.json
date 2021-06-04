@@ -1,0 +1,6 @@
+{
+  "name": "webstorm-vue-html-webpack-alias-bug",
+  "dependencies": {
+    "vue": "next"
+  }
+}
